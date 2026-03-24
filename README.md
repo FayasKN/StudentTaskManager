@@ -1,109 +1,169 @@
-# Student Task Manager Web Application
+# 🚀 Student Task Manager (Flask Web App)
 
-A full-stack web application built using Flask that allows users to manage their daily tasks efficiently. The system provides user authentication and task management features including adding, updating, and deleting tasks.
+A modern **Task Management Web Application** built using **Flask** with a clean interface and smooth user experience.
 
----
-
-## 🔗 Live Demo
-
-Access the application here:
-👉 https://FayaS.pythonanywhere.com
+This project focuses on combining **backend functionality** with a **visually appealing UI and animations**, making it more than just a basic CRUD app.
 
 ---
 
-## 📌 Features
+## 🌐 Live Demo
 
-* User Registration and Login Authentication
-* Create, View, and Manage Tasks
-* Mark Tasks as Completed
-* Delete Tasks
-* Dashboard Interface for Task Overview
+🔗 **Website:**
+https://fayas.pythonanywhere.com
 
 ---
 
-## 🛠️ Technology Stack
+## ✨ Features
 
-* **Backend:** Python (Flask)
-* **Frontend:** HTML, CSS
+### 🔐 Authentication
+
+* User Registration (popup modal)
+* Secure Login system
+* Dashboard access for users
+
+---
+
+### 📝 Task Management
+
+* Add new tasks
+* Mark tasks as **Done**
+* Delete tasks
+* Organized task display
+
+---
+
+### 🎨 UI / UX
+
+* Clean and modern interface
+* Smooth hover effects
+* Well-spaced layout for readability
+
+---
+
+### 🎬 Animations
+
+* Animated background
+* Success animation on actions
+* Interactive button and card effects
+
+---
+
+### 📱 User Experience
+
+* Centered layout for better usability
+* Minimal and distraction-free design
+* Easy navigation
+
+---
+
+## 🛠️ Tech Stack
+
+* **Backend:** Flask (Python)
+* **Frontend:** HTML + CSS (inline templates)
 * **Database:** SQLite
-* **Deployment:** PythonAnywhere
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
-```id="p3u7k1"
+```
 StudentTaskManager/
 │
-├── app.py
-├── database.db
-├── templates/
-│   ├── login.html
-│   └── dashboard.html
-├── static/ (optional)
-└── README.md
+├── app.py          # Main application (backend + frontend)
+├── database.db     # SQLite database
+└── README.md       # Project documentation
 ```
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙️ Installation & Setup
 
-1. Clone the repository:
+### 1️⃣ Clone the repository
 
-```id="b7v1f3"
+```bash
 git clone https://github.com/FayasKN/StudentTaskManager.git
-```
-
-2. Navigate to project directory:
-
-```id="f9a2d1"
 cd StudentTaskManager
 ```
 
-3. Install required dependencies:
+---
 
-```id="z6k9q2"
+### 2️⃣ Install dependencies
+
+```bash
 pip install flask
 ```
 
-4. Run the application:
+---
 
-```id="u2c8y4"
+### 3️⃣ Run the app
+
+```bash
 python app.py
 ```
 
-5. Open in browser:
+---
 
-```id="g1r3n6"
+### 4️⃣ Open in browser
+
+```
 http://127.0.0.1:5000
 ```
 
 ---
 
-## 🚀 Key Highlights
+## 🚀 Deployment
 
-* Implemented CRUD operations for task management
-* Integrated database with backend using SQLite
-* Designed user-friendly interface
-* Successfully deployed the application online
+This project is deployed using:
+
+* PythonAnywhere (free hosting)
+
+You can also deploy it on:
+
+* Render
+* Railway
+* VPS
 
 ---
 
-## 📈 Future Enhancements
+## 🎯 Future Improvements
 
-* Password encryption (security improvement)
-* Responsive UI design
-* Cloud database integration
-* Task deadlines and notifications
+* Dark / Light mode toggle
+* Mobile responsiveness
+* AI-based task suggestions
+* Notifications system
+* Analytics dashboard
 
 ---
 
 ## 👨‍💻 Author
 
 **Fayas KN**
+GitHub: https://github.com/FayasKN
 
 ---
 
-## ⭐ Acknowledgment
+## ⭐ Support
 
-If you find this project useful, consider giving it a ⭐ on GitHub.
+If you like this project:
+
+* Star the repository
+* Fork it
+* Share feedback
+
+---
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+### 🚀 Final Note
+
+This project demonstrates:
+
+* Flask backend development
+* Integration of UI with backend logic
+* Deployment of a working web application
+
+A solid project for your **portfolio and resume**.
