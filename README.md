@@ -166,4 +166,4 @@ This project demonstrates:
 * Integration of UI with backend logic
 * Deployment of a working web application
 
-A solid project for your **portfolio and resume**.
+
