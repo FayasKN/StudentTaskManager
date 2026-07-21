@@ -87,7 +87,7 @@ cd StudentTaskManager
 
 ---
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 ```bash
 pip install flask
@@ -95,7 +95,7 @@ pip install flask
 
 ---
 
-### 3️⃣ Run the app
+### 3️ Run the app
 
 ```bash
 python app.py
@@ -103,7 +103,7 @@ python app.py
 
 ---
 
-### 4️⃣ Open in browser
+### 4️ Open in browser
 
 ```
 http://127.0.0.1:5000
@@ -111,7 +111,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 This project is deployed using:
 
@@ -125,7 +125,7 @@ You can also deploy it on:
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 * Dark / Light mode toggle
 * Mobile responsiveness
@@ -135,14 +135,14 @@ You can also deploy it on:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Fayas KN**
 GitHub: https://github.com/FayasKN
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you like this project:
 
@@ -152,13 +152,13 @@ If you like this project:
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the **MIT License**.
 
 ---
 
-### 🚀 Final Note
+###  Final Note
 
 This project demonstrates:
 
