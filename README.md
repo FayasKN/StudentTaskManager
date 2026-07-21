@@ -1,4 +1,4 @@
-# 🚀 Student Task Manager (Flask Web App)
+#  Student Task Manager (Flask Web App)
 
 A modern **Task Management Web Application** built using **Flask** with a clean interface and smooth user experience.
 
@@ -6,16 +6,16 @@ This project focuses on combining **backend functionality** with a **visually ap
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-🔗 **Website:**
+ **Website:**
 https://fayas.pythonanywhere.com
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔐 Authentication
+###  Authentication
 
 * User Registration (popup modal)
 * Secure Login system
@@ -23,7 +23,7 @@ https://fayas.pythonanywhere.com
 
 ---
 
-### 📝 Task Management
+###  Task Management
 
 * Add new tasks
 * Mark tasks as **Done**
@@ -32,7 +32,7 @@ https://fayas.pythonanywhere.com
 
 ---
 
-### 🎨 UI / UX
+###  UI / UX
 
 * Clean and modern interface
 * Smooth hover effects
@@ -40,7 +40,7 @@ https://fayas.pythonanywhere.com
 
 ---
 
-### 🎬 Animations
+###  Animations
 
 * Animated background
 * Success animation on actions
@@ -48,7 +48,7 @@ https://fayas.pythonanywhere.com
 
 ---
 
-### 📱 User Experience
+###  User Experience
 
 * Centered layout for better usability
 * Minimal and distraction-free design
@@ -56,7 +56,7 @@ https://fayas.pythonanywhere.com
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Backend:** Flask (Python)
 * **Frontend:** HTML + CSS (inline templates)
@@ -64,7 +64,7 @@ https://fayas.pythonanywhere.com
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 StudentTaskManager/
@@ -76,9 +76,9 @@ StudentTaskManager/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```bash
 git clone https://github.com/FayasKN/StudentTaskManager.git
